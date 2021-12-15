@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">I'm an ambitious mobile developer ready to build and design digital experiences through smartphones</h3>
+<h3 align="center">I'm an ambitious mobile developer ready to build and design digital experiences through mobile technology</h3>
 
 <p align="center">
 
