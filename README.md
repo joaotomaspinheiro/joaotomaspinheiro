@@ -10,6 +10,8 @@
 
 ### Languages and Tools that I currently use:
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" alt="dart" width="60" height="60"/> </a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
 
 ### Languages and Tools that I have used:
